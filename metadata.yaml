@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '45785'
     url: http://www.gutenberg.org/2009/agents/45785
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41952#Scott-Greenwood-and-Co.-Catalogue-of-Special-Technical-Works-1903For-Manufacturers-Students-a_
 gutenberg_issued: '2013-01-31'
 gutenberg_type: Text
 identifiers:
